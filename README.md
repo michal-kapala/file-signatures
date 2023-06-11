@@ -2,8 +2,9 @@
 List of uncommon/proprietary file signatures made for personal use, feel free to contribute.
 
 # Resources
-For regular signatures make sure to check:
-- [Wikipedia](https://en.wikipedia.org/wiki/List_of_file_signatures)
+For common signatures make sure to check:
+- [Wikipedia](https://en.wikipedia.org/wiki/List_of_file_signatures) - regular
+- [ZenHAX](https://web.archive.org/web/20230527234603/https://zenhax.com/viewtopic.php?t=27) - compression algorithms
 
 # List
 
