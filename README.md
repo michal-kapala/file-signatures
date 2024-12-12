@@ -15,3 +15,4 @@ For common signatures make sure to check:
 | `95 EE 00 80` | `•î.€` | `.bin` | [QNAP](https://www.qnap.com/en-us/download?model=qna-uc5g1t&category=firmware) firmware |
 | `03 9F 00 80` | `.ź.€` | `.bin` | [QNAP](https://www.qnap.com/en-us/download?model=qna-uc5g1t&category=firmware) firmware |
 | `45 58 2D 02 70 00 63` | `EX-.p.c` | `.ex4` | [MQL4](https://www.mql4.com/) executable |
+| `59 42 49 47` | `YBIG` | `.big` | [Yeti engine](https://en.namu.wiki/w/%EC%9C%A0%EB%B9%84%EC%86%8C%ED%94%84%ED%8A%B8%20%EA%B2%8C%EC%9E%84%20%EC%97%94%EC%A7%84#s-3.3) asset bundle (Bigfile) |
